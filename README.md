@@ -1,4 +1,5 @@
-# <a href="https://www.linkedin.com/in/jashawnalewis/">Jashawna Lewis</a>'s Medical Laboratory Scientist | Epic Beaker CP Subject Matter Expert | Aspiring Epic Application Analyst 🔐
+# <a href="https://www.linkedin.com/in/jashawnalewis/">Jashawna Lewis</a>
+Medical Laboratory Scientist | Epic Beaker CP Subject Matter Expert | Aspiring Epic Application Analyst 🔐
 
 I'm a Medical Laboratory Scientist with more than six years of experience using Epic Beaker CP in a high-volume academic medical center. My current work as an Epic Beaker Subject Matter Expert includes wet and dry validation testing, workflow verification, and collaboration with application analysts during assay migrations. I'm passionate about improving clinical workflows through technology and am transitioning into a career in Health IT.
 
