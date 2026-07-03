@@ -20,11 +20,11 @@ Current Areas of Focus
 🏥 Health Informatics
 
 
-## 🧬 Epic Beaker Clinical Pathology Workflow Portfolio
+## 🧬 Featured Health IT Project
 
-- **[Epic Beaker Clinical Pathology — Workflow Documentation Portfolio](https://github.com/Slewis916/epic-beaker-lab-workflow-docs)**
+### [Epic Beaker Clinical Pathology — Workflow Documentation Portfolio](https://github.com/Slewis916/epic-beaker-lab-workflow-docs)
 
-## 🚨 Threat Hunting and Security Operations
+Clinical workflow documentation developed from 6+ years of Epic Beaker CP experience demonstrating workflow analysis, application support concepts, validation documentation, and interface troubleshooting.
 
 
 <hr/>
