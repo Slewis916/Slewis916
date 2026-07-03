@@ -21,7 +21,7 @@ Current Areas of Focus
 
 ## 🧬 Epic Beaker Clinical Pathology Workflow Portfolio
 
-- **[Epic Beaker Clinical Pathology — Workflow Documentation Portfolio]([https://github.com/Slewis916/epic-beaker-lab-workflow-docs])**
+- **[Epic Beaker Clinical Pathology — Workflow Documentation Portfolio](https://github.com/Slewis916/epic-beaker-lab-workflow-docs)**
 
 ## 🚨 Threat Hunting and Security Operations
 
