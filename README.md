@@ -1,11 +1,27 @@
-# <a href="https://www.linkedin.com/in/jashawnalewis/">Jashawna Lewis</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/jashawnalewis/">Jashawna Lewis</a>'s Medical Laboratory Scientist | Epic Beaker CP Subject Matter Expert | Aspiring Epic Application Analyst 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm a Medical Laboratory Scientist with more than six years of experience using Epic Beaker CP in a high-volume academic medical center. My current work as an Epic Beaker Subject Matter Expert includes wet and dry validation testing, workflow verification, and collaboration with application analysts during assay migrations. I'm passionate about improving clinical workflows through technology and am transitioning into a career in Health IT.
+
+Current Areas of Focus
+
+🧪 Epic Beaker CP
+
+📋 Clinical Workflow Analysis
+
+✅ Validation Testing
+
+🖥️ Healthcare Application Support
+
+📊 SQL for Healthcare
+
+🔄 HL7 Fundamentals
+
+🏥 Health Informatics
 
 
-## ⚠️ Vulnerability Management Projects
+## 🧬 Epic Beaker Clinical Pathology Workflow Portfolio
 
-- **[Vulnerability Management Program Implementation](https://github.com/Slewis916/vulnerability-management-program)**
+- **[Epic Beaker Clinical Pathology — Workflow Documentation Portfolio]([https://github.com/Slewis916/epic-beaker-lab-workflow-docs])**
 
 ## 🚨 Threat Hunting and Security Operations
 
